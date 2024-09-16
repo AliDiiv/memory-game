@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
 
 Here’s a preview of the Memory Game:
 
-![Memory Game Preview](img/memory-game-preview.png)
+![Memory Game Preview](memory-game-preview.png)
 
 ## 🔧 Customization
 
